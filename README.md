@@ -24,5 +24,6 @@ Also , all input,output is based on midi , so your traning data must coms from m
 
 If you made it thorough the testing output phase , congrats , It's very bad I know. But this project is my breakthrough into machine-learning field. So forgive me if you're looking for something more serious.
 
-Thanks
+Thanks,
+
 PoomrokC
